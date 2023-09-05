@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3vTI67Zy2LlZwB0aWkL4wkNvkPsMZKjU+yvowJoMGqA=",
+  "Source": "PPLendingAuthenticationService",
+  "BasePath": "_content/PPLendingAuthenticationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

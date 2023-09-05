@@ -1,0 +1,14 @@
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.deps.json
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.runtimeconfig.json
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.pdb
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.csproj.AssemblyReference.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.AssemblyInfoInputs.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.AssemblyInfo.cs
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\refint\PPLendingAuthenticationService.DAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.pdb
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\PPLendingAuthenticationService.DAL.genruntimeconfig.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.DAL\obj\Debug\net7.0\ref\PPLendingAuthenticationService.DAL.dll

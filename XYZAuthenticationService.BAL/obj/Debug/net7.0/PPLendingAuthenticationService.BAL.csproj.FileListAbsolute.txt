@@ -1,0 +1,15 @@
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\bin\Debug\net7.0\PPLendingAuthenticationService.BAL.deps.json
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\bin\Debug\net7.0\PPLendingAuthenticationService.BAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\bin\Debug\net7.0\PPLendingAuthenticationService.BAL.pdb
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\bin\Debug\net7.0\PPLendingAuthenticationService.DAL.pdb
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.csproj.AssemblyReference.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.AssemblyInfoInputs.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.AssemblyInfo.cs
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.csproj.CoreCompileInputs.cache
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.csproj.CopyComplete
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\refint\PPLendingAuthenticationService.BAL.dll
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\PPLendingAuthenticationService.BAL.pdb
+C:\Users\2103316\OneDrive - Cognizant\Documents\XYZAuthenticationService\XYZAuthenticationService\XYZAuthenticationService.BAL\obj\Debug\net7.0\ref\PPLendingAuthenticationService.BAL.dll
